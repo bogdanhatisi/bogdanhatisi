@@ -5,11 +5,9 @@
 
 - 🤝 I’m interested in learning more about **software development and AI**
 
-- 📫 How to reach me **hatisi.bogdan@gmail.com**
+- 📫 How to reach me: **hatisi.bogdan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cgIjZAmVpXL7J_mQB1KI3CpRfM-8E_s2/view](https://drive.google.com/file/d/1cgIjZAmVpXL7J_mQB1KI3CpRfM-8E_s2/view)
-
-- ⚡ Fun fact **I love coffee ☕**
+- 📄 Find out more about my experiences: [https://drive.google.com/file/d/1cgIjZAmVpXL7J_mQB1KI3CpRfM-8E_s2/view](https://drive.google.com/file/d/1cgIjZAmVpXL7J_mQB1KI3CpRfM-8E_s2/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
