@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bogdanhatisi&label=Profile%20views&color=0e75b6&style=flat" alt="bogdanhatisi" /> </p>
 
-- 🤝 I’m interested in learning **machine learning and AI**
+- 🤝 I’m interested in learning more about **software development and AI**
 
 - 📫 How to reach me **hatisi.bogdan@gmail.com**
 
