@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bogdanhatisi&label=Profile%20views&color=0e75b6&style=flat" alt="bogdanhatisi" /> </p>
 
-- 🤝 **AI enthusiast and emerging software developer** creating innovative solutions that enhance user experiences.
+- 🤝 **AI enthusiast and software developer** creating innovative solutions that enhance user experiences.
 
 - 📫 How to reach me: **hatisi.bogdan@gmail.com**
 
