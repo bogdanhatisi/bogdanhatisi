@@ -1,9 +1,9 @@
 <h1 align="center">Welcome 👋, I'm Bogdan</h1>
-<h3 align="center">A curious and passionate software developer</h3>
+<h3 align="center">A curious and passionate software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bogdanhatisi&label=Profile%20views&color=0e75b6&style=flat" alt="bogdanhatisi" /> </p>
 
-- 🤝 **AI enthusiast and software developer** creating innovative solutions that enhance user experiences.
+- 🤝 **AI enthusiast and software engineer** creating innovative solutions that enhance user experiences.
 
 - 📫 How to reach me: **hatisi.bogdan@gmail.com**
 
