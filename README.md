@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **hatisi.bogdan@gmail.com**
 
-- 📄 Find out more about my experiences: [Resume](https://drive.google.com/file/d/1f24CoGb4RIbVR1lRjR8KI6q1Y3MRy8jg/view?usp=sharing)
+- 📄 Find out more about my experiences: [Resume](https://drive.google.com/file/d/1WYC7zRMgb8GgTxxDS9pVPPOopvr0rXom/view?usp=drive_link)
   
 - ⌛ Latest project: [iTrainer](https://github.com/bogdanhatisi/iTrainer)
 
