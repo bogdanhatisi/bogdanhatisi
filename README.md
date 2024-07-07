@@ -9,7 +9,7 @@
 
 - 📄 Find out more about my experiences: [Resume](https://drive.google.com/file/d/1WYC7zRMgb8GgTxxDS9pVPPOopvr0rXom/view?usp=drive_link)
   
-- ⌛ Latest project: [iTrainer](https://github.com/bogdanhatisi/iTrainer)
+- ⌛ Latest projects: [Pallace](https://github.com/bogdanhatisi/Pallace), [iTrainer](https://github.com/bogdanhatisi/iTrainer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
