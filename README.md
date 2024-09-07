@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bogdanhatisi&label=Profile%20views&color=0e75b6&style=flat" alt="bogdanhatisi" /> </p>
 
-- 🤝 **Software engineer and AI enthusiast** creating innovative solutions that enhance user experiences.
+- 🤝 **Software engineer and AI enthusiast** olving complex business problems to deliver valuable solutions that drive growth and efficiency.
 
 - 📫 How to reach me: **hatisi.bogdan@gmail.com**
 
